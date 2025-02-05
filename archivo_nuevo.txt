@@ -1,3 +1,6 @@
 ¡Hola, mundo!
 ¡Más datos para el archivo!
+<<<<<<< Updated upstream
 ¡Más datos para el archivo!
+=======
+>>>>>>> Stashed changes
